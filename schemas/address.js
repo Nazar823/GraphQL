@@ -55,7 +55,7 @@ const resolver = {
     },
     phoneOther: () => {
         return '8(548)514-54-92'
-    },
+    }
 }
 graphql(address, `{ 
     id,
